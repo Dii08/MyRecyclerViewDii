@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyRecyclerViewDii</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="from">Asal</string>
+    <string name="txt_list">List</string>
+    <string name="txt_grid">Grid</string>
+    <string name="txt_with_cardview">with CardView</string>
+    <string name="description">deskripsi</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+
+
+</resources>
